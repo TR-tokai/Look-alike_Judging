@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Look-alike_Judging</id>
+    <version>1.0.0</version>
+    <authors>Look-alike_Judging</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="OpenCvSharp4" version="4.10.0.20241108" exclude="Build,Analyzers" />
+        <dependency id="OpenCvSharp4.Windows" version="4.10.0.20241108" exclude="Build,Analyzers" />
+        <dependency id="OpenCvSharp4.runtime.win" version="4.10.0.20241108" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\inaku\Desktop\Look-alike_Judging\Look-alike_Judging\Look-alike_Judging\bin\Debug\net8.0-windows\Look-alike_Judging.runtimeconfig.json" target="lib\net8.0-windows7.0\Look-alike_Judging.runtimeconfig.json" />
+    <file src="C:\Users\inaku\Desktop\Look-alike_Judging\Look-alike_Judging\Look-alike_Judging\bin\Debug\net8.0-windows\Look-alike_Judging.dll" target="lib\net8.0-windows7.0\Look-alike_Judging.dll" />
+  </files>
+</package>
