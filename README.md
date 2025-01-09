@@ -15,7 +15,7 @@
 8. 右下に書いてある目安を見てどのくらいそっくりさんなのか判断する。（あくまで目安です）
 
 ### ライセンス
-このプロジェクトはOpenCvSharpとOpenCVを使用しており、MIT LicenseとApache License 2.0でライセンスされています。詳細は LICENSE ファイルを参照してください．
+このプロジェクトはOpenCvSharpとOpenCVを使用しており、MIT LicenseとApache License 2.0でライセンスされています。詳細は LICENSE ファイルを参照してください。
 
 This project uses OpenCvSharp and OpenCV, which is licensed under the MIT License and Apache License 2.0. See LICENSE file for more details.
 
